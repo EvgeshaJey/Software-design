@@ -20,7 +20,7 @@ namespace ConsloApp5
             programmer.Send("Программа для паттерна ПОСРЕДНИК готова! Нужно протестрировать");
             tester.Send("Программа для паттерна ПОСРЕДНИК протестрирована успешно!");
 
-            // test for github
+            
             Console.Read();
         }
     }
